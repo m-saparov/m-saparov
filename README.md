@@ -49,10 +49,10 @@
 
 
 ## 📊 Github stats
-<img src='https://github-readme-stats.vercel.app/api?username=Diyor-Khasanov&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true'>
+<img src='https://github-readme-stats.vercel.app/api?username=Mehroj-Saparov&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true'>
 
 ## 📊 Top languages
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Diyor-Khasanov&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Mehroj-Saparov&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact'>
 
 ### 💻 My favorite operating systems
 <p>
